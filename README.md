@@ -16,9 +16,9 @@ I am a multidisciplinary developer with a focus on software engineering, finance
 
 Here is a snapshot of my GitHub activity:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=acse-ci223&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mchrisgm&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acse-ci223&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mchrisgm&layout=compact&theme=radical)
 
 🔰 While I have a few public repositories on GitHub, I have also contributed in external projects to supplement my involvement. These contributions demonstrate my versatility in working with different types of projects.
 
