@@ -10,7 +10,7 @@ I am a multidisciplinary developer with a focus on software engineering, finance
 - 🔧 Proficient in Python, JavaScript, CSS, HTML, C++, Shell, and TeX
 - 💡 Interested in exploring the intersections of technology and other scientific domains
 
-✨ Check out my GitHub profile [here](https://github.com/acse-ci223) to explore my repositories!
+✨ Check out my GitHub profile [here](https://github.com/mchrisgm) to explore my repositories!
 
 ### 📊 GitHub Analytics
 
