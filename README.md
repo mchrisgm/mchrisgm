@@ -6,7 +6,7 @@ I am a multidisciplinary developer with a focus on software engineering, finance
 
 ### 🤹‍♂️ About Me
 
-- 🔬 Background in Computational Science and Automotive Engineering
+- 🔬 Background in Applied Computational Science and Automotive Engineering
 - 🔧 Proficient in Python, JavaScript, CSS, HTML, C++, Shell, and TeX
 - 💡 Interested in exploring the intersections of technology and other scientific domains
 
