@@ -1,19 +1,19 @@
 <div align="center">
 
 # Hi, I'm Chris! 👋
-  
-[![Risk Analyst](https://img.shields.io/badge/Risk_Analyst-Polar_Capital-0D1B2A?style=for-the-badge&logo=capitalone&logoColor=white)](https://www.linkedin.com/in/crsioannidis/)
-[![MSc](https://img.shields.io/badge/MSc-Applied_Computational_Science-003E74?style=for-the-badge&logo=imperial-college-london&logoColor=white)](https://www.imperial.ac.uk/)
-[![BEng](https://img.shields.io/badge/BEng-Automotive_Engineering-E31837?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.imperial.ac.uk/)
+
+[![Risk Analyst](https://img.shields.io/badge/Risk_Analyst-Polar_Capital-0D1B2A?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/crsioannidis/)
+[![MSc](https://img.shields.io/badge/MSc-Applied_Computational_Science-003E74?style=for-the-badge&logo=stockx&logoColor=white)](https://www.imperial.ac.uk/)
+[![BEng](https://img.shields.io/badge/BEng-Automotive_Engineering-E31837?style=for-the-badge&logo=ferrari&logoColor=white)](https://www.imperial.ac.uk/)
 
 </div>
 
 ## 💻 Technical Stack
 
 <div align="center">
-  
+
 ### Languages & Tools
-  
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  
+
 ### Development & DevOps
   
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -46,7 +46,7 @@
 <div align="center">
 
 ### Data Science & ML
-  
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -62,7 +62,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mchrisgm&show_icons=true&theme=dracula)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mchrisgm&layout=compact&theme=dracula)
-
 
 </div>
 
