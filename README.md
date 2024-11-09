@@ -2,13 +2,12 @@
 
 ![Static Badge](https://img.shields.io/badge/Currently-yellow)
 
-- ![Static Badge](https://img.shields.io/badge/Risk_Analyst-Polar_Capital-blue)
-
+- ![Static Badge](https://img.shields.io/badge/Risk_Analyst-Polar_Capital-0D1B2A?style=for-the-badge&logo=capitalone&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Was-white)
 
-- ![Static Badge](https://img.shields.io/badge/Student-MSc%20Applied%20Computational%20Science%20and%20Engineering-darkgreen)
-- ![Static Badge](https://img.shields.io/badge/Student-BEng%20Automotive%20Engineering-red)
+- ![Static Badge](https://img.shields.io/badge/MSc-Applied_Computational_Science-003E74?style=for-the-badge&logo=imperial-college-london&logoColor=white)
+- ![Static Badge](https://img.shields.io/badge/BEng-Automotive_Engineering-E31837?style=for-the-badge&logo=autodesk&logoColor=white)
 
 I am a multidisciplinary developer with a focus on software engineering, finance and a passion for exploring technical fields. Recently graduated with a Master of Science degree in Applied Computational Science and Engineering from Imperial College London, I am continuously expanding my skill set and actively contributing to various projects.
 
@@ -18,7 +17,7 @@ I am a multidisciplinary developer with a focus on software engineering, finance
 - 🔧 Proficient in Python, JavaScript, CSS, HTML, C++, Shell, and TeX
 - 💡 Interested in exploring the intersections of technology and other scientific domains
 
-✨ Check out my GitHub profile [here](https://github.com/mchrisgm?tab=repositories)) to explore my repositories!
+✨ Check out my GitHub profile [here](https://github.com/mchrisgm?tab=repositories) to explore my repositories!
 
 ### 📊 GitHub Analytics
 
