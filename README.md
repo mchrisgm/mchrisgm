@@ -62,8 +62,9 @@
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mchrisgm&repo=Innovative-Approaches-to-Asset-Prediction&theme=dracula)](https://github.com/mchrisgm/Innovative-Approaches-to-Asset-Prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mchrisgm&repo=parally&theme=dracula)](https://github.com/mchrisgm/parally)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mchrisgm&repo=bambulabs_api&theme=dracula)](https://github.com/mchrisgm/bambulabs_api)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mchrisgm&repo=parally&theme=dracula)](https://github.com/mchrisgm/parally)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mchrisgm&repo=gcode-imager&theme=dracula)](https://github.com/mchrisgm/gcode-imager)
 
 </div>
