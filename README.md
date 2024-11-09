@@ -1,6 +1,10 @@
 ## Hi, I'm Chris! 👋
 
-![](https://img.shields.io/badge/student-MSc%20Applied%20Computational%20Science%20and%20Engineering-blue)
+![Static Badge](https://img.shields.io/badge/Risk_Analyst-Polar_Capital-blue)
+
+![Static Badge](https://img.shields.io/badge/Student-MSc%20Applied%20Computational%20Science%20and%20Engineering-darkgreen)
+
+![Static Badge](https://img.shields.io/badge/Student-BEng%20Automotive%20Engineering-red)
 
 I am a multidisciplinary developer with a focus on software engineering, finance and a passion for exploring technical fields. Recently graduated with a Master of Science degree in Applied Computational Science and Engineering from Imperial College London, I am continuously expanding my skill set and actively contributing to various projects.
 
@@ -17,7 +21,6 @@ I am a multidisciplinary developer with a focus on software engineering, finance
 Here is a snapshot of my GitHub activity:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mchrisgm&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mchrisgm&layout=compact&theme=radical)
 
 🔰 While I have a few public repositories on GitHub, I have also contributed in external projects to supplement my involvement. These contributions demonstrate my versatility in working with different types of projects.
