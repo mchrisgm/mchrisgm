@@ -1,10 +1,14 @@
 ## Hi, I'm Chris! 👋
 
-![Static Badge](https://img.shields.io/badge/Risk_Analyst-Polar_Capital-blue)
+![Static Badge](https://img.shields.io/badge/Currently-yellow)
 
-![Static Badge](https://img.shields.io/badge/Student-MSc%20Applied%20Computational%20Science%20and%20Engineering-darkgreen)
+- ![Static Badge](https://img.shields.io/badge/Risk_Analyst-Polar_Capital-blue)
 
-![Static Badge](https://img.shields.io/badge/Student-BEng%20Automotive%20Engineering-red)
+
+![Static Badge](https://img.shields.io/badge/Was-white)
+
+- ![Static Badge](https://img.shields.io/badge/Student-MSc%20Applied%20Computational%20Science%20and%20Engineering-darkgreen)
+- ![Static Badge](https://img.shields.io/badge/Student-BEng%20Automotive%20Engineering-red)
 
 I am a multidisciplinary developer with a focus on software engineering, finance and a passion for exploring technical fields. Recently graduated with a Master of Science degree in Applied Computational Science and Engineering from Imperial College London, I am continuously expanding my skill set and actively contributing to various projects.
 
